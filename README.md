@@ -145,7 +145,7 @@ pip install -r requirements.txt
 Open:
 
 ```bash
-GoldPricePrediction.ipynb
+Gold_Price_Prediction.ipynb
 ```
 
 and run all cells.
