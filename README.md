@@ -133,7 +133,7 @@ Through this project I learned:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/gold-price-prediction.git
+git clone https://github.com/eknoor-kaur-kohli/GoldPricePredicton.git
 ```
 
 Install dependencies:
@@ -145,7 +145,7 @@ pip install -r requirements.txt
 Open:
 
 ```bash
-Gold_Price_Prediction.ipynb
+GoldPricePrediction.ipynb
 ```
 
 and run all cells.
